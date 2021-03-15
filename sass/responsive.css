@@ -54,7 +54,7 @@
     -webkit-box-direction: reverse;
         -ms-flex-direction: column-reverse;
             flex-direction: column-reverse;
-    margin-top: -36%;
+    margin-top: -25%;
   }
   .left {
     width: 100%;
