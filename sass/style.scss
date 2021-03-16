@@ -2,6 +2,7 @@
     margin:0%;
     padding: 0%;
     box-sizing: border-box;
+    font-family: 'Nunito Sans', sans-serif;
 }
 
 html{
@@ -16,6 +17,10 @@ main{
 nav{
     height: 7.4rem;
     font-size:2rem;
+}
+.navbar-material{
+    position: absolute;
+    right: 9%;
 }
 .temperature{
     font-size:2.2rem;

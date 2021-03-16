@@ -17,7 +17,7 @@
   }
   .navbar-material {
     width: 100vw;
-    margin-top: 13px;
+    margin-top: 7px;
     position: absolute;
     left: 0%;
   }
@@ -46,8 +46,10 @@
 
 @media only screen and (max-width: 645px) {
   .nav-item {
-    width: 34vw;
     height: 5.5rem;
+  }
+  .right img {
+    height: 23rem;
   }
   .container-bg {
     -webkit-box-orient: vertical;
@@ -67,7 +69,16 @@
     width: 14rem;
   }
   #intro {
-    font-size: 2.5rem;
+    font-size: 2rem;
+  }
+  .left p {
+    font-size: 1.8rem;
+  }
+  .navbar-material {
+    width: 100vw;
+    margin-top: 7px;
+    position: absolute;
+    left: 0%;
   }
 }
 /*# sourceMappingURL=responsive.css.map */
